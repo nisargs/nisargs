@@ -53,8 +53,8 @@ I possess a strong foundation in cybersecurity fundamentals, complemented by pra
 
 ## 📫 Contact & Links
 - 📧 Email: nisarg2198@gmail.com  
-- 💼 LinkedIn: [https://linkedin.com/in/your-link ](https://www.linkedin.com/in/soni-nisarg) 
-- 🌐 GitHub: [https://github.com/your-username](https://github.com/nisargs)  
+- 💼 LinkedIn: [https://linkedin.com/in/soni-nisarg](https://www.linkedin.com/in/soni-nisarg) 
+- 🌐 GitHub: [https://github.com/nisargs](https://github.com/nisargs)  
 
 ---
 
