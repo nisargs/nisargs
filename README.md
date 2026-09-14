@@ -38,10 +38,10 @@ I possess a strong foundation in cybersecurity fundamentals, complemented by pra
 
 ## 📑 Certifications
 - [Microsoft Certified: Security Operations Analyst Associate (SC-200)](https://learn.microsoft.com/en-us/users/nisargsoni-7235/credentials/25ab267b7a10fbf1)
-- [CompTIA CySA+]([url](https://www.credly.com/badges/6df6079e-f5f3-4884-b514-c0e28ce2a4fb/public_url))
-- [CompTIA Security+]([url](https://www.credly.com/badges/df0f560d-eda8-4690-92bf-a88996b1d2ec/public_url))
-- [Google Cybersecurity Professional Certificate]([url](https://github.com/nisargs/Google-Cybersecurity-Professional-Certificate/blob/main/Google\%20Cybersecurity\%20Certificate.pdf))
-- [Microsoft Azure Fundamentals (AZ-900)]([url](https://www.credly.com/badges/ae751d86-bef5-4347-a01b-bb2579137ef5))
+- [CompTIA CySA+]((https://www.credly.com/badges/6df6079e-f5f3-4884-b514-c0e28ce2a4fb/public_url))
+- [CompTIA Security+]((https://www.credly.com/badges/df0f560d-eda8-4690-92bf-a88996b1d2ec/public_url))
+- [Google Cybersecurity Professional Certificate]((https://github.com/nisargs/Google-Cybersecurity-Professional-Certificate/blob/main/Google\%20Cybersecurity\%20Certificate.pdf))
+- [Microsoft Azure Fundamentals (AZ-900)]((https://www.credly.com/badges/ae751d86-bef5-4347-a01b-bb2579137ef5))
 ---
 
 ## 📊 Projects & Labs
