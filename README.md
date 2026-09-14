@@ -10,7 +10,7 @@ I possess a strong foundation in cybersecurity fundamentals, complemented by pra
 
 ## 🔐 Cybersecurity Experience
 
-### SOC Analyst I
+### SOC Analyst II
 - Monitor, triage, and investigate security alerts across multiple sources  
 - Perform log analysis and correlate events to identify potential threats  
 - Escalate and support incident response activities following defined procedures  
